@@ -1,3 +1,29 @@
+# Short Description of the APP
+A simple, web-based Todo application built with Django that allows users to create, manage, and organize tasks efficiently. It supports adding new tasks, marking them as complete, editing details, and deleting tasks, providing a clean and intuitive interface for personal task management.
+
+# Instructions to run the project locally
+**Create a virtual environment (recommended):**
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+**Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+**Run the development server:**
+   ```bash
+   python manage.py runserver
+
+**Open browser and navigate to:**
+   ```
+   http://127.0.0.1:8000/
+   ```
+
+# Live deployed URL
+https://todo-app-project-8sx5.onrender.com
+
+
 # Django Todo App
 
 A complete Todo web application built with Django, featuring a modern UI with Tailwind CSS.
