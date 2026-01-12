@@ -44,6 +44,7 @@ CSRF_TRUSTED_ORIGINS = [
     'https://subclimatic-sherri-nonprovocatively.ngrok-free.dev',
     'http://localhost:8000',
     'http://127.0.0.1:8000',
+    'https://todo-app-project-8sx5.onrender.com/', # Add Render domain as trustedCSRF
 ]
 
 
